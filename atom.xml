@@ -41,74 +41,6 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="https://zscdumin.github.io/2019/09/09/qqf90ab2b5f06e9a2f579621d742341aef/ea296c1f4539418e8461c6214a79444f/wu-biao-ti-markdown/"/>
-    <id>https://zscdumin.github.io/2019/09/09/qqf90ab2b5f06e9a2f579621d742341aef/ea296c1f4539418e8461c6214a79444f/wu-biao-ti-markdown/</id>
-    <published>2019-09-09T09:35:52.498Z</published>
-    <updated>2019-09-09T09:36:08.496Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;\section{The Elsevier article class}&lt;/p&gt;
-&lt;p&gt;\paragraph{Installation} If the document class \emph{elsarticle} is not available on your computer, you can download and install the system package
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://zscdumin.github.io/2019/08/23/qqf90ab2b5f06e9a2f579621d742341aef/6b26c4f0211a452c965490a33b26b010/readme/"/>
-    <id>https://zscdumin.github.io/2019/08/23/qqf90ab2b5f06e9a2f579621d742341aef/6b26c4f0211a452c965490a33b26b010/readme/</id>
-    <published>2019-08-23T07:09:29.100Z</published>
-    <updated>2019-08-23T07:09:29.488Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Neural-Graph-Collaborative-Filtering&quot;&gt;&lt;a href=&quot;#Neural-Graph-Collaborative-Filtering&quot; class=&quot;headerlink&quot; title=&quot;Neural Graph Collaborative Filtering&quot;&gt;&lt;/a&gt;Neural Graph Collaborative
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://zscdumin.github.io/2019/08/23/qqf90ab2b5f06e9a2f579621d742341aef/e5463dc444324f478886c54d18d6619d/li-hang-tong-ji-xue-xi-fang-fa-bi-ji/"/>
-    <id>https://zscdumin.github.io/2019/08/23/qqf90ab2b5f06e9a2f579621d742341aef/e5463dc444324f478886c54d18d6619d/li-hang-tong-ji-xue-xi-fang-fa-bi-ji/</id>
-    <published>2019-08-23T06:36:29.599Z</published>
-    <updated>2019-08-23T06:36:29.792Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;统计学习笔记&quot;&gt;&lt;a href=&quot;#统计学习笔记&quot; class=&quot;headerlink&quot; title=&quot;统计学习笔记&quot;&gt;&lt;/a&gt;统计学习笔记&lt;/h1&gt;&lt;h2 id=&quot;1-统计学习三要素&quot;&gt;&lt;a href=&quot;#1-统计学习三要素&quot; class=&quot;headerlink&quot; title=&quot;1. 统计学习三要素&quot;&gt;&lt;/a&gt;1. 统计学习三要素&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;方法 = 模型 +
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>驾考科目点位</title>
     <link href="https://zscdumin.github.io/2019/07/01/jia-kao-ke-mu-dian-wei/"/>
     <id>https://zscdumin.github.io/2019/07/01/jia-kao-ke-mu-dian-wei/</id>
@@ -136,30 +68,6 @@
     <id>https://zscdumin.github.io/2019/04/14/tui-jian-xi-tong-shi-da-tiao-zhan/</id>
     <published>2019-04-14T10:51:29.000Z</published>
     <updated>2019-04-14T11:12:03.580Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;推荐系统十大挑战&quot;&gt;&lt;a href=&quot;#推荐系统十大挑战&quot; class=&quot;headerlink&quot; title=&quot;推荐系统十大挑战&quot;&gt;&lt;/a&gt;推荐系统十大挑战&lt;/h1&gt;&lt;h2 id=&quot;挑战一：数据稀疏性问题&quot;&gt;&lt;a href=&quot;#挑战一：数据稀疏性问题&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="推荐系统" scheme="https://zscdumin.github.io/tags/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>推荐系统十大挑战</title>
-    <link href="https://zscdumin.github.io/2019/04/14/qqf90ab2b5f06e9a2f579621d742341aef/e8a702235ec0403fb66d35500bfeee40/tui-jian-xi-tong-shi-da-tiao-zhan/"/>
-    <id>https://zscdumin.github.io/2019/04/14/qqf90ab2b5f06e9a2f579621d742341aef/e8a702235ec0403fb66d35500bfeee40/tui-jian-xi-tong-shi-da-tiao-zhan/</id>
-    <published>2019-04-14T10:51:29.000Z</published>
-    <updated>2019-08-23T07:09:08.989Z</updated>
     
     <summary type="html">
     
@@ -671,30 +579,6 @@
     
     
       <category term="Java SpringBoot 分页" scheme="https://zscdumin.github.io/tags/Java-SpringBoot-%E5%88%86%E9%A1%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CCF历年题解</title>
-    <link href="https://zscdumin.github.io/2018/12/06/qqf90ab2b5f06e9a2f579621d742341aef/d4a2cf25405b4271b6081f6fc497b3d4/ccf-li-nian-ti-jie/"/>
-    <id>https://zscdumin.github.io/2018/12/06/qqf90ab2b5f06e9a2f579621d742341aef/d4a2cf25405b4271b6081f6fc497b3d4/ccf-li-nian-ti-jie/</id>
-    <published>2018-12-06T07:44:39.000Z</published>
-    <updated>2019-08-23T07:08:41.938Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;出现次数最多的数&quot;&gt;&lt;a href=&quot;#出现次数最多的数&quot; class=&quot;headerlink&quot; title=&quot;出现次数最多的数&quot;&gt;&lt;/a&gt;出现次数最多的数&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-lang-c&quot;&gt;&lt;code
-        
-      
-    
-    </summary>
-    
-    
-      <category term="CCF c" scheme="https://zscdumin.github.io/tags/CCF-c/"/>
     
   </entry>
   
